@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.Arrays;
 
-public class DayOne2016 { 
+public class Day1 { 
   public static void main(String args[]) {
     
 //     Direction facing = Direction.NORTH;
